@@ -12,7 +12,8 @@ To cite, please use the following bibtex:
 @article{searching4smurfs_jensen2023,
   title = {Searching for Smurfs: Testing if Money Launderers Know Alert Thresholds},
   author = {Jensen, Rasmus Ingemann Tuffveson and Ferwerda, Joras and Wewer, Christian Remi},
-  eprint={2309.12704},
+  doi = {10.48550/arXiv.2309.12704},
+  howpublished = {\url{https://arxiv.org/abs/2309.12704}}
   keywords = {Anti-money Laundering, Transaction Monitoring},
   year = {2023}
 }
